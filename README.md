@@ -27,6 +27,7 @@ My name is Paulo Brandão and I"m a Software Development Teacher who is passiona
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-292D3E?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-292D3E?style=flat&logo=adobe-dreamweaver)&nbsp;
 <br />
+![Creative Cloud](https://img.shields.io/badge/-Creative%20Cloud-292D3E?style=flat&logo=adobe-creative-cloud)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-292D3E?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-292D3E?style=flat&logo=adobe-illustrator)&nbsp;
 ![After Effects](https://img.shields.io/badge/-After%20Effects-292D3E?style=flat&logo=adobe-after-effects)&nbsp;
