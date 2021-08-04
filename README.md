@@ -7,7 +7,6 @@
 My name is Paulo Brandão and I"m a Software Development Teacher who is passionate about building tech, teaching and learning new technologies 
 
 <br />
-<br />
 
 ### 🛠 &nbsp;Tech Stack
 
