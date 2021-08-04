@@ -15,6 +15,7 @@ My name is Paulo Brandão and I"m a Software Development Teacher who is passiona
 
 ![Unity](https://img.shields.io/badge/-Unity-292D3E?style=flat&logo=Unity&logoColor=F1F1F1)&nbsp;
 ![C#](https://img.shields.io/badge/C%23%20-292D3E?style=flat&logo=c-sharp&logoColor=884DC4)
+![A.I.](https://img.shields.io/badge/-A.I.-292D3E?style=flat&logo=microsoft)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-292D3E?style=flat&logo=microsoft-sql-server)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-292D3E?style=flat&logo=microsoft-azure)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-292D3E?style=flat&logo=php)&nbsp;
@@ -25,6 +26,11 @@ My name is Paulo Brandão and I"m a Software Development Teacher who is passiona
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-292D3E?style=flat&logo=visual-studio&logoColor=884DC4)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-292D3E?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-292D3E?style=flat&logo=adobe-dreamweaver)&nbsp;
+<br />
+![Photoshop](https://img.shields.io/badge/-Photoshop-292D3E?style=flat&logo=adobe-photoshop)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-292D3E?style=flat&logo=adobe-illustrator)&nbsp;
+![After Effects](https://img.shields.io/badge/-After%20Effects-292D3E?style=flat&logo=adobe-after-effects)&nbsp;
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-292D3E?style=flat&logo=adobe-premiere-pro)&nbsp;
 <br />
 ![HTML](https://img.shields.io/badge/-HTML-292D3E?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-292D3E?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
