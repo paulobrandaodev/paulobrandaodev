@@ -14,6 +14,7 @@ My name is Paulo Brandão and I"m a Software Development Teacher who is passiona
 ### 🛠 &nbsp;Tech Stack
 
 <br />
+
 ![Unity](https://img.shields.io/badge/-Unity-292D3E?style=flat&logo=Unity&logoColor=FFA518)&nbsp;
 ![C#](https://img.shields.io/badge/C%23%20-292D3E?style=flat&logo=c-sharp&logoColor=FFA518)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-292D3E?style=flat&logo=microsoft-sql-server)&nbsp;
@@ -46,5 +47,6 @@ My name is Paulo Brandão and I"m a Software Development Teacher who is passiona
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulobrandaodev&theme=midnight-purple" alt="paulobrandaodev" /></p>
  
- <br /> 
+ <br />
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=paulobrandaodev&bg_color=000000&color=7F3ACE&line=7F3ACE&point=ffffff&area=true&hide_border=true)  
