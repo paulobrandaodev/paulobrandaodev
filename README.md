@@ -45,6 +45,7 @@ My name is Paulo Brandão and I"m a Software Development Teacher who is passiona
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulobrandaodev&show_icons=true&locale=en&layout=compact&theme=default" alt="paulobrandaodev" /></p>
 <br />
+<br />
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulobrandaodev&theme=default" alt="paulobrandaodev" /></p>
  
