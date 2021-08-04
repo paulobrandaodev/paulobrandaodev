@@ -1,12 +1,10 @@
 ### <img src="https://thumbs.gfycat.com/ResponsibleUnfinishedAlpinegoat-small.gif" width="200px"> <br /> Hi there 
 
 <a href="https://www.linkedin.com/in/paulorobertobrandaodasilva/">
-  <img align="left" alt="paulobrandaodev's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="paulobrandaodev's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=paulobrandaodev)
-
+<br />
 My name is Paulo Brandão and I"m a Software Development Teacher who is passionate about building tech, teaching and learning new technologies 
 
 ### 🛠 &nbsp;Tech Stack
