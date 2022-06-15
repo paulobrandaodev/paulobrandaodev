@@ -15,6 +15,8 @@ My name is Paulo Brandão and I"m a Software Development Teacher who is passiona
 ![Unity](https://img.shields.io/badge/-Unity-292D3E?style=flat&logo=Unity&logoColor=F1F1F1)&nbsp;
 ![C#](https://img.shields.io/badge/C%23%20-292D3E?style=flat&logo=c-sharp&logoColor=884DC4)
 ![A.I.](https://img.shields.io/badge/-A.I.-292D3E?style=flat&logo=microsoft)&nbsp;
+![R](https://img.shields.io/badge/R-292D3E?style=flat&logo=r&logoColor=blue)&nbsp;
+![Python](https://img.shields.io/badge/python-292D3E?style=flat&logo=python&logoColor=yellow)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-292D3E?style=flat&logo=microsoft-sql-server)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-292D3E?style=flat&logo=microsoft-azure)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-292D3E?style=flat&logo=php)&nbsp;
