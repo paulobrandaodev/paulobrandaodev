@@ -18,7 +18,7 @@ My name is Paulo Brandão and I"m a Software Development Teacher who is passiona
 ![R](https://img.shields.io/badge/R-292D3E?style=flat&logo=r&logoColor=blue)&nbsp;
 ![Python](https://img.shields.io/badge/python-292D3E?style=flat&logo=python&logoColor=yellow)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-292D3E?style=flat&logo=microsoft-sql-server)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-292D3E?style=flat&logo=microsoft-azure)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-292D3E?style=flat&logo=microsoft-azure&logoColor=blue)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-292D3E?style=flat&logo=php)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-292D3E?style=flat&logo=MySQL)&nbsp;
 <br />
