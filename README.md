@@ -4,7 +4,8 @@
   <img align="left" alt="paulobrandaodev's LinkedIN" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 
-My name is Paulo Brandão and I"m a Software Development Teacher who is passionate about building tech, teaching and learning new technologies 
+My name is Paulo Brandão and I"m a Software Development Teacher who is passionate about building tech, teaching and learning new technologies.
+WorldSkills Expert, Skill 08: Mobile Applications Development
 
 <br />
 
