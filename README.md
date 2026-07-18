@@ -1,7 +1,7 @@
 ### <img src="https://thumbs.gfycat.com/ResponsibleUnfinishedAlpinegoat-small.gif" width="200px"> <br /> Hi there 
 
 <a href="https://www.linkedin.com/in/paulorobertobrandaodasilva/">
-  <img align="left" alt="paulobrandaodev's LinkedIN" width="40px" src="https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:8618f0ba-7d60-4fd5-9fd0-bbd4809031c9/original/as/brandg-business-in-logo-dsk-v03-png-original.png" />
+  <img align="left" alt="paulobrandaodev's LinkedIN" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968789.png" />
 </a>
 
 My name is Paulo Brandão and I"m a Software Development Supervisor who is passionate about building tech, teaching and learning new technologies.
