@@ -46,11 +46,7 @@ WorldSkills Expert, Skill 08: Mobile Applications Development
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left">
-  <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=paulobrandaodev&theme=default](https://github-stats-extended.vercel.app/api/top-langs?username=paulobrandaodev&show_icons=true&locale=en&layout=compact&theme=default)" alt="paulobrandaodev" />
-</p>
-<br />
-<br />
+![Linguagens mais utilizadas](https://github-stats-extended.vercel.app/api/top-langs/?username=paulobrandaodev&layout=compact&theme=default)
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulobrandaodev&theme=default" alt="paulobrandaodev" /></p>
  
